@@ -1,0 +1,2 @@
+language = 'ruby'
+run = 'ruby lib/connect_four.rb'
